@@ -1,0 +1,17 @@
+export const interviewRounds = [
+  { value: "Coding Assignment" },
+  { value: "DSA" },
+  { value: "Tech Discussion 1" },
+  { value: "Tech Discussion 2" },
+  { value: "Tech Discussion 3" },
+  { value: "HR Interview" },
+  { value: "Contest" },
+  { value: "Aptitude Test" },
+  { value: "CTO Round" },
+  { value: "Culture Fit" },
+  { value: "Intro/Screening Call" },
+  { value: "CEO Round" },
+  { value: "Managerial Round" },
+  { value: "Live Coding" },
+  { value: "Online Test" },
+];

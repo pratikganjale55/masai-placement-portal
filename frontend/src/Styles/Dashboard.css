@@ -1,0 +1,11 @@
+.dashboard_div{
+    margin: auto;
+    height: 75vh;
+    background-color: rgba(0, 0, 0, 0.02);
+}
+.CompDiv{
+    margin-top: 2px;
+    padding: 10px;
+    margin: auto;
+    height: 75vh;
+}

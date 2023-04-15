@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "ambitionBox": "http://localhost:3000/createPosition",
+      "companyName": "cvxbdvb",
+      "id": 1
+    },
+    {
+      "payload": {
+        "companyName": "cvxbdvb",
+        "websiteUrl": "http://localhost:3000/createPosition",
+        "companySegment": "Large Enterprises (MNSc/ Indian/ GCCs)",
+        "industry": "SaaS",
+        "linkdinUrl": "http://localhost:3000/createPosition",
+        "glassdoorUrl": "http://localhost:3000/createPosition",
+        "ambitionBox": "http://localhost:3000/createPosition",
+        "leadSource": "Masai Student Referral",
+        "id": 568686868
+      },
+      "id": 2
+    },
+    {
+      "companyName": "cvxbdvb",
+      "websiteUrl": "http://localhost:3000/createPosition",
+      "companySegment": "Large Enterprises (MNSc/ Indian/ GCCs)",
+      "industry": "EdTech",
+      "linkdinUrl": "http://localhost:3000/createPosition",
+      "glassdoorUrl": "http://localhost:3000/createPosition",
+      "ambitionBox": "http://localhost:3000/createPosition",
+      "leadSource": "Repeat Hiring Partner",
+      "id": 568686868
+    },
+    {
+      "companyName": "cvxbdvb",
+      "websiteUrl": "http://localhost:3000/createPosition",
+      "companySegment": "Classic companies Digital Division",
+      "industry": "ealthTech",
+      "linkdinUrl": "http://localhost:3000/createPosition",
+      "glassdoorUrl": "http://localhost:3000/createPosition",
+      "ambitionBox": "http://localhost:3000/createPosition",
+      "leadSource": "Hiring Partner Referral",
+      "id": 598686868
+    },
+    {
+      "companyName": "hhv",
+      "websiteUrl": "http://localhost:3000/createPosition",
+      "companySegment": "Mid size Enterprises",
+      "industry": "Retail Tech",
+      "description": "<p>vvvggghg<strong>bhb</strong></p>",
+      "whyApply": "<p>bhvhvhhb</p>",
+      "linkdinUrl": "http://localhost:3000/createPosition",
+      "glassdoorUrl": "http://localhost:3000/createPosition",
+      "ambitionBox": "http://localhost:3000/createPosition",
+      "leadSource": "Masai Employee Referral",
+      "id": 598686869
+    },
+    {
+      "companyName": "hhv",
+      "websiteUrl": "http://localhost:3000/createPosition",
+      "companySegment": "Mid size Enterprises",
+      "industry": "Retail Tech",
+      "description": "<p>vvvggghg<strong>bhb</strong></p>",
+      "whyApply": "<p>bhvhvhhb</p>",
+      "linkdinUrl": "http://localhost:3000/createPosition",
+      "glassdoorUrl": "http://localhost:3000/createPosition",
+      "ambitionBox": "http://localhost:3000/createPosition",
+      "leadSource": "Masai Employee Referral",
+      "id": 598686870
+    },
+    {
+      "companyName": "shree",
+      "websiteUrl": "http://localhost:3000/createPosition",
+      "companySegment": "Small/ Boutique IT/ ITeS firms",
+      "industry": "Retail Tech",
+      "description": "",
+      "whyApply": "",
+      "linkdinUrl": "http://localhost:3000/createPosition",
+      "glassdoorUrl": "http://localhost:3000/createPosition",
+      "ambitionBox": "http://localhost:3000/createPosition",
+      "leadSource": "Masai Student Referral",
+      "id": 598686871
+    }
+  ]
+}

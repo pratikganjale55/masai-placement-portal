@@ -1,0 +1,96 @@
+.Parent_Div {
+  width: 80%;
+  margin: auto;
+  border-radius: 13px;
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  padding: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.flex_div1 {
+  display: flex;
+  width: 98%;
+  flex-wrap: wrap;
+  padding-bottom: 5%;
+}
+
+.flex_div1 > div {
+  width: 48%;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.img_div {
+  margin-left: 15px;
+  font-size: 17px;
+  font-weight: 650;
+  color: rgb(97, 96, 96);
+}
+
+.img_div > img {
+  width: 96%;
+  height: 96%;
+}
+
+.right_Div {
+  display: flex;
+  height: 160px;
+  width: 200px;
+  margin-left: 15px;
+}
+
+.second_div {
+  color: rgb(117, 116, 116);
+  font-size: 13px;
+}
+
+.second_right_div {
+  color: rgb(122, 120, 120);
+  font-size: 13px;
+}
+
+.flex_div2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 98%;
+  justify-content: space-around;
+}
+
+.flex_div2 > div {
+  width: 48%;
+}
+
+@media only screen and (max-width: 600px) {
+  .flex_div1 > div {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .flex_div1 > div:nth-child(1) {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .flex_div1 > div:nth-child(2) {
+    height: 0px;
+    border: none;
+  }
+
+  .flex_div2 > div {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+
+  .Parent_Div {
+    margin: auto;
+    border-radius: 13px;
+    margin: 30px;
+  }
+}

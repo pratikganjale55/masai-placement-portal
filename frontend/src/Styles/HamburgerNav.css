@@ -1,0 +1,98 @@
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 2px 8px #f0f1f2;
+  z-index: 3;
+}
+
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  border-bottom: 3px solid rgb(224, 224, 224);
+}
+
+.MasailogoContainer img {
+  height: 40px;
+  width: auto;
+}
+
+.NavItemsMenuContainer {
+  display: flex;
+  align-items: center;
+}
+
+.NavMenuIcon {
+  display: none;
+}
+
+.navHorizontalMenu {
+  display: flex;
+}
+
+.navHorizontalMenu a {
+  color: #1F2937;
+  font-size: 20px;
+  text-decoration: none;
+}
+.navHorizontalMenu div {
+  height: 60px;
+  padding: 20px 0;
+  margin-right: 30px;
+}
+
+.navHorizontalMenu div::after {
+  content: "";
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  height: 3px;
+  width: 0px;
+  background: transparent;
+  transition: width 0.5s ease, background-color 0.5s ease;
+}
+.navHorizontalMenu div:hover:after {
+  width: 100%;
+  background: #4e46dc;
+}
+
+.navAvatarContainer {
+  display: flex;
+  align-items: center;
+}
+
+ .ant-menu-item-selected {
+    color: #4E46DC !important;
+  }
+
+.drawerMenu a {
+  display: block;
+  padding: 16px;
+  font-size: 16px;
+  color: #1F2937;
+  text-decoration: none;
+}
+
+.drawerMenu a:hover {
+  color: #4E46DC;
+  background-color: #f0f1f2;
+}
+.drawerMenu a:hover {
+  border-radius: 15;
+  background: #e4efff;
+}
+
+@media (max-width: 500px) {
+  .NavMenuIcon {
+    display: block;
+    position: absolute;
+    left:5px;
+  }
+  .navHorizontalMenu {
+    display: none;
+  }
+  /* .navAvatarContainer {
+    display: none;
+  } */
+}
